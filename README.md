@@ -1,6 +1,6 @@
 # Modelo de recomendação de produtos
 
-Olá, seja muito bem vindo a este projeto da criação de um modelo de recomendação de produtos :happy:
+Olá, seja muito bem vindo a este projeto da criação de um modelo de recomendação de produtos 😃
 
 Este projeto foi desenvolvido como uma dinâmica individual de treinamento do curso Data Expert, oferecido pela Dinâmica Group (DNC). Trata-se de dados de funcionamento de um e-commerce, que deseja realizar a construção de um modelo de recomendação dos seus produtos ofertados.
 
